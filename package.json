@@ -1,0 +1,8 @@
+{
+  "name": "electrondemo",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron-prebuilt": "^1.2.5"
+  }
+}
